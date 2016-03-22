@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another Example post
-cover: cover.jpg
+cover: cover.png
 date:   2016-03-21 12:00:00
 categories: posts
 ---
